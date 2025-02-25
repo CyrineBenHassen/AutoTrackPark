@@ -1,0 +1,41 @@
+﻿@model PFE.HOTIX.WEB.Models.ModelViewModel
+@{
+    ViewData["Title"] = "ModifierPage";
+    Layout = "_Layout";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body"
+                <div class="card card-teal card-outline">
+                    <div class="card-header">
+                        <h2 class="card-title">Modifier une modéle</h2>
+                    </div>
+
+
+                <form class="mt-4" asp-controller="model" asp-action="Modifier">
+
+
+                    <div class="form-group"  style="display: none;">
+                        <label for="exampleInputPassword1">Id modél</label>
+                        <input asp-for="id_model" class="form-control" placeholder=" Entrer Id model">
+                        <span asp-validation-for="id_model" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Nom modéle</label>
+                        <input asp-for="name_model" class="form-control" id="exampleInputPassword1" placeholder=" Entrer Nom Modéle">
+                        <span asp-validation-for="name_model" class="text-danger"></span>
+                    </div>
+
+
+                    <button value="Modifier" type="submit" class="btn btn-success float-right"> <i class="fa fa-check"></i> Modifier</button>
+                    <button asp-action="Index" class="btn btn-danger "><i class="fas fa-arrow-left"></i> Annuler </button>
+                </form>
+
+            </div>
+        </div>
+        </div>
+    </div>
+

@@ -1,0 +1,137 @@
+﻿@model PFE.HOTIX.WEB.Models.VoitureViewModel
+
+@{
+    ViewData["Title"] = "Modifier Voiture";
+}
+
+<div class="card card-teal card-outline">
+
+    <div class="card-header">
+        <br />
+        <h2 class="card-title">Modifier une voiture</h2>
+    </div>
+    <form class="form-horizontal" asp-action="Modifier" asp-controller="Voiture">
+
+        <div class="card-body">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group row">
+                <label asp-for="matricule_voiture" class="col-sm-2 col-form-label">Matricule  voiture : </label>
+                <div class="col-sm-10">
+                    <input asp-for="matricule_voiture" class="form-control" placeholder="Matricule" />
+                    <span asp-validation-for="matricule_voiture" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="couleur_voiture" class="col-sm-2 col-form-label">Couleur  voiture : </label>
+                <div class="col-sm-10">
+                    <input asp-for="couleur_voiture" class="form-control" placeholder="couleur" />
+                    <span asp-validation-for="couleur_voiture" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="Kilommetrage_Voiture" class="col-sm-2 col-form-label">Kilométrage  voiture: </label>
+                <div class="col-sm-10">
+                    <input asp-for="Kilommetrage_Voiture" class="form-control" placeholder="Kilométrage" />
+                    <span asp-validation-for="Kilommetrage_Voiture" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="annee_voiture" class="col-sm-2 col-form-label">Année  voiture :</label>
+                <div class="col-sm-10">
+                    <input asp-for="annee_voiture" class="form-control" placeholder="Année" />
+                    <span asp-validation-for="annee_voiture" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row">
+                <label asp-for="nbre_place" class="col-sm-2 col-form-label">Nombre place  voiture :</label>
+                <div class="col-sm-10">
+                    <input asp-for="nbre_place" class="form-control" placeholder="Nombre Place" />
+                    <span asp-validation-for="nbre_place" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row">
+                <label asp-for="id_marque" class="col-sm-2 col-form-label">Marque  voiture:</label>
+                <div class="col-sm-10">
+                    <select asp-for="id_marque" class="form-control" size="1"
+                            asp-items="@(new SelectList(Model.Marques,"Id_marque","marque_name"))">
+                        @if ((@Model != null) && (@Model.Voiture != null) && (@Model.Voiture.Marque != null))
+                        {
+                            <option id="@Model.Voiture.Marque.Id_marque" value="@Model.Voiture.Marque.Id_marque">@Model.Voiture.Marque.marque_name</option>
+                        }
+                        else
+                        {
+                            <option id="0" value="0">-- select -- </option>
+                        }
+                    </select>
+                    <span asp-validation-for="id_marque" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="id_model" class="col-sm-2 col-form-label">Modéle  voiture :</label>
+                <div class="col-sm-10">
+                    <select asp-for="id_model" class="form-control" size="1"
+                            asp-items="@(new SelectList(Model.Models,"id_model","name_model"))">
+                        @if ((@Model != null) && (@Model.Voiture != null) && (@Model.Voiture.Model != null))
+                        {
+                            <option id="@Model.Voiture.Model.id_model" value="@Model.Voiture.Model.id_model">@Model.Voiture.Model.name_model</option>
+                        }
+                        else
+                        {
+                            <option id="0" value="0">-- select -- </option>
+                        }
+                    </select>
+                    <span asp-validation-for="id_model" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="id_etat" class="col-sm-2 col-form-label">État  voiture :</label>
+                <div class="col-sm-10">
+                    <select asp-for="id_etat" class="form-control" size="1"
+                            asp-items="@(new SelectList(Model.Etats,"id_etat","etat_name"))">
+                        @if ((@Model != null) && (@Model.Voiture != null) && (@Model.Voiture.Parc != null))
+                        {
+                            <option id="@Model.Voiture.Etat.id_etat" value="@Model.Voiture.Etat.id_etat">@Model.Voiture.Etat.etat_name</option>
+                        }
+                        else
+                        {
+                            <option id="0" value="0">-- select -- </option>
+                        }
+                    </select>
+                    <span asp-validation-for="id_etat" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <label asp-for="id_parc" class="col-sm-2 col-form-label">Parc  voiture :</label>
+                <div class="col-sm-10">
+                    <select asp-for="id_parc" class="form-control" size="1"
+                            asp-items="@(new SelectList(Model.Parcs,"id_parc","nom_parc"))">
+                        @if ((@Model != null) && (@Model.Voiture != null) && (@Model.Voiture.Parc != null))
+                        {
+                            <option id="@Model.Voiture.Parc.id_parc" value="@Model.Voiture.Parc.id_parc">@Model.Voiture.Parc.nom_parc</option>
+                        }
+                        else
+                        {
+                            <option id="0" value="0">-- select -- </option>
+                        }
+
+                    </select>
+                    <span asp-validation-for="id_parc" class="text-danger"></span>
+                </div>
+            </div>
+
+            <button value="Modifier" type="submit" class="btn btn-success float-right"> <i class="fa fa-check"></i> Modifier</button>
+            <button asp-action="Index" class="btn btn-danger "><i class="fas fa-arrow-left"></i> Annuler </button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,26 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[sp_user_delete] (Procédure)
+       [dbo].[sp_user_get_all] (Procédure)
+       [dbo].[sp_user_get_one_by_id] (Procédure)
+       [dbo].[sp_user_get_one_by_login] (Procédure)
+       [dbo].[sp_user_insert] (Procédure)
+       [dbo].[sp_user_role_get_all] (Procédure)
+       [dbo].[sp_user_update] (Procédure)
+       [dbo].[sp_voiture_delete] (Procédure)
+       [dbo].[sp_voiture_get_all] (Procédure)
+       [dbo].[sp_voiture_get_one_by_matricule] (Procédure)
+       [dbo].[sp_voiture_insert] (Procédure)
+       [dbo].[sp_voiture_update] (Procédure)
+
+** Actions de support

@@ -1,0 +1,184 @@
+﻿
+
+@model PFE.HOTIX.WEB.Models.VoitureViewModel
+
+@{
+    ViewData["Title"] = "Consulter";
+}
+
+
+<section class="content-header">
+    <br />
+    <br />
+    <div class="container-fluid">
+
+
+        <div class="card card-teal card-outline">
+            <div class="card-body box-profile">
+                <br />
+                <h2 class="card-title">Détails de voiture</h2>
+                <br/>
+            </div>
+         
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+
+                            <i class="fa fa-car"></i>
+                            <strong>
+                                Matricule voiture:
+                            </strong>
+
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.matricule_voiture)
+                            </p>
+
+
+                        </div>
+
+                    </div>
+                 
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="fas fa-palette"></i>
+                            <strong>Couleur voiture:</strong>  <p class="text-muted">@Html.DisplayFor(model => model.couleur_voiture)</p>
+
+                        </div>
+                    </div>
+
+                
+                </div>
+
+                <hr>
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="fas fa-tachometer-alt">
+
+                            </i><strong>Kilométrage voiture</strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Kilommetrage_Voiture)
+                            </p>
+                        </div>
+
+                    </div>
+
+
+                
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="far fa-calendar-alt"></i>
+                            <strong>Année voiture:</strong>
+                            <p class="text-muted"> @Html.DisplayFor(model => model.annee_voiture)</p>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="fas fa-chair"> </i>
+
+                            <strong>
+
+                                Nombre place :
+                            </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.nbre_place)
+                            </p>
+                        </div>
+                    </div>
+
+                    <hr />
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="fas fa-parking"></i>
+                            <strong>
+
+                                Nom de parc :
+                            </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Voiture.Parc.nom_parc)
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <hr />
+                <br>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong>
+                                <i class="fas fa-car-side"></i>
+                                Marque voiture:
+                            </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Voiture.Marque.marque_name)
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong>
+                                <i class="fas fa-car-side"></i>
+                                Modéle voiture:
+                            </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Voiture.Model.name_model)
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+                <hr />
+
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="fas fa-check"></i>
+
+                            <strong>
+
+                                État voiture :
+                            </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Voiture.Etat.etat_name)
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <hr />
+                <div class="row">
+                    <div class="col-12">
+                    </div>
+                    <div class="col-12">
+                        <a class="btn btn-default bg-teal  float-right" href='@Url.Action("Modifier", "Voiture", new { matricule_voiture = @Model.matricule_voiture})'>
+                            <i class="fas fa-user-edit"></i>
+                            Modifier
+                        </a>
+
+                        <a class="btn btn-danger  float-left" href='@Url.Action("Index", "Voiture")'>
+                            <i class="fas fa-arrow-left"></i>
+                            Retour
+                        </a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+

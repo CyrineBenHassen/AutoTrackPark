@@ -1,0 +1,17 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[app_user] (Table)
+       [dbo].[def_user_role] (Table)
+       [dbo].[FK_AppUser_To_DefUserRole] (Clé étrangère)
+
+** Actions de support

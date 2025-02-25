@@ -1,0 +1,137 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       [dbo].[app_user]
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       La colonne [dbo].[app_user].[user_full_name] est en cours de suppression, des données risquent d'être perdues.
+       La colonne [dbo].[app_user].[user_is_valid] est en cours de suppression, des données risquent d'être perdues.
+       La colonne [dbo].[app_user].[user_url_image] est en cours de suppression, des données risquent d'être perdues.
+       La colonne [dbo].[app_user].[user_first_name] de la table [dbo].[app_user] doit être ajoutée mais la colonne ne comporte
+         pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne
+         fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme
+         autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+       Le type de la colonne user_email dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est remplacé
+         par  VARCHAR (100) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (100) NULL.
+       Le type de la colonne user_login dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est remplacé
+         par  VARCHAR (100) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (100) NOT NULL.
+       Le type de la colonne user_password dans la table [dbo].[app_user] est actuellement  NCHAR (250) NULL, mais est remplacé
+         par  VARCHAR (250) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (250) NOT NULL.
+       Le type de la colonne role_code dans la table [dbo].[def_user_role] est actuellement  NCHAR (50) NULL, mais est remplacé
+         par  VARCHAR (50) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (50) NULL.
+       Le type de la colonne role_name dans la table [dbo].[def_user_role] est actuellement  NCHAR (50) NULL, mais est remplacé
+         par  VARCHAR (100) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (100) NULL.
+
+** Actions de l'utilisateur
+     Supprimer
+       contrainte sans nom sur [dbo].[app_user] (Contrainte par défaut)
+       contrainte sans nom sur [dbo].[app_user] (Contrainte par défaut)
+       [dbo].[FK_appDemandeFormation_To_defUser] (Clé étrangère)
+       [dbo].[FK_appDemandeRecrutement_To_defUser] (Clé étrangère)
+     Recréer la table
+       [dbo].[app_user] (Table)
+     Modifier
+       [dbo].[def_user_role] (Table)
+       [dbo].[sp_user_get_all] (Procédure)
+       [dbo].[sp_user_get_one_by_id] (Procédure)
+       [dbo].[sp_user_get_one_by_login] (Procédure)
+       [dbo].[sp_user_insert] (Procédure)
+       [dbo].[sp_user_update] (Procédure)
+     Créer
+       [dbo].[def_etat] (Table)
+       [dbo].[def_etat_demande] (Table)
+       [dbo].[def_marque] (Table)
+       [dbo].[def_model] (Table)
+       [dbo].[def_parc] (Table)
+       [dbo].[def_type_maintenance] (Table)
+       [dbo].[localisation] (Table)
+       [dbo].[maintenance] (Table)
+       [dbo].[reservation] (Table)
+       [dbo].[voiture] (Table)
+       [dbo].[FK_parc_To_user_] (Clé étrangère)
+       [dbo].[FK_localisation_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_type_maintenance] (Clé étrangère)
+       [dbo].[FK_reservation_To_def_etat_demande] (Clé étrangère)
+       [dbo].[FK_reservation_to_app_user] (Clé étrangère)
+       [dbo].[FK_reservation_to_voiture] (Clé étrangère)
+       [dbo].[FK_voiture_To_defmarquee] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_model] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_etat] (Clé étrangère)
+       [dbo].[FK_voiture_To_parc] (Clé étrangère)
+       [dbo].[sp_etat_demande_delete] (Procédure)
+       [dbo].[sp_etat_demande_get_all] (Procédure)
+       [dbo].[sp_etat_demande_insert] (Procédure)
+       [dbo].[sp_etat_demande_update] (Procédure)
+       [dbo].[sp_etatvoiture_delete] (Procédure)
+       [dbo].[sp_etatvoiture_get_all] (Procédure)
+       [dbo].[sp_etatvoiture_insert] (Procédure)
+       [dbo].[sp_etatvoiture_update] (Procédure)
+       [dbo].[sp_localisation_delete] (Procédure)
+       [dbo].[sp_localisation_get_all] (Procédure)
+       [dbo].[sp_localisation_insert] (Procédure)
+       [dbo].[sp_localisation_update] (Procédure)
+       [dbo].[sp_maintenance_delete] (Procédure)
+       [dbo].[sp_maintenance_get_all] (Procédure)
+       [dbo].[sp_maintenance_insert] (Procédure)
+       [dbo].[sp_maintenance_update] (Procédure)
+       [dbo].[sp_marque_delete] (Procédure)
+       [dbo].[sp_marque_get_all] (Procédure)
+       [dbo].[sp_marque_insert] (Procédure)
+       [dbo].[sp_marque_update] (Procédure)
+       [dbo].[sp_model_delete] (Procédure)
+       [dbo].[sp_model_get_all] (Procédure)
+       [dbo].[sp_model_insert] (Procédure)
+       [dbo].[sp_model_update] (Procédure)
+       [dbo].[sp_reservation_delete] (Procédure)
+       [dbo].[sp_reservation_get_all] (Procédure)
+       [dbo].[sp_reservation_insert] (Procédure)
+       [dbo].[sp_reservation_update] (Procédure)
+       [dbo].[sp_type_maintenance_delete] (Procédure)
+       [dbo].[sp_type_maintenance_get_all] (Procédure)
+       [dbo].[sp_type_maintenance_insert] (Procédure)
+       [dbo].[sp_type_maintenance_update] (Procédure)
+       [dbo].[sp_voiture_delete] (Procédure)
+       [dbo].[sp_voiture_get_all] (Procédure)
+       [dbo].[sp_voiture_get_one_by_matricule] (Procédure)
+       [dbo].[sp_voiture_insert] (Procédure)
+       [dbo].[sp_voiture_update] (Procédure)
+
+** Actions de support
+     Supprimer
+       [dbo].[FK_AppUser_To_DefUserRole] (Clé étrangère)
+     Créer
+       [dbo].[FK_AppUser_To_DefUserRole] (Clé étrangère)
+     Actualiser
+       [dbo].[sp_user_delete] (Procédure)
+       [dbo].[sp_user_role_get_all] (Procédure)
+
+La colonne [dbo].[app_user].[user_full_name] est en cours de suppression, des données risquent d'être perdues.
+La colonne [dbo].[app_user].[user_is_valid] est en cours de suppression, des données risquent d'être perdues.
+La colonne [dbo].[app_user].[user_url_image] est en cours de suppression, des données risquent d'être perdues.
+La colonne [dbo].[app_user].[user_first_name] de la table [dbo].[app_user] doit être ajoutée mais la colonne ne comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+La colonne role_id de la table [dbo].[app_user] doit être modifiée de NULL à NOT NULL. Si la table contient des données, le script ALTER peut ne pas fonctionner. Pour éviter ce problème, vous devez ajouter des valeurs à cette colonne pour toutes les lignes, marquer la colonne comme autorisant les valeurs NULL ou activer la génération de smart-defaults en tant qu'option de déploiement.
+La colonne user_creation_date de la table [dbo].[app_user] doit être modifiée de NULL à NOT NULL. Si la table contient des données, le script ALTER peut ne pas fonctionner. Pour éviter ce problème, vous devez ajouter des valeurs à cette colonne pour toutes les lignes, marquer la colonne comme autorisant les valeurs NULL ou activer la génération de smart-defaults en tant qu'option de déploiement.
+Le type de la colonne user_email dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (100) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (100) NULL.
+La colonne user_login de la table [dbo].[app_user] doit être modifiée de NULL à NOT NULL. Si la table contient des données, le script ALTER peut ne pas fonctionner. Pour éviter ce problème, vous devez ajouter des valeurs à cette colonne pour toutes les lignes, marquer la colonne comme autorisant les valeurs NULL ou activer la génération de smart-defaults en tant qu'option de déploiement.
+Le type de la colonne user_login dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (100) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (100) NOT NULL.
+La colonne user_password de la table [dbo].[app_user] doit être modifiée de NULL à NOT NULL. Si la table contient des données, le script ALTER peut ne pas fonctionner. Pour éviter ce problème, vous devez ajouter des valeurs à cette colonne pour toutes les lignes, marquer la colonne comme autorisant les valeurs NULL ou activer la génération de smart-defaults en tant qu'option de déploiement.
+Le type de la colonne user_password dans la table [dbo].[app_user] est actuellement  NCHAR (250) NULL, mais est remplacé par  VARCHAR (250) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (250) NOT NULL.
+Le type de la colonne role_code dans la table [dbo].[def_user_role] est actuellement  NCHAR (50) NULL, mais est remplacé par  VARCHAR (50) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (50) NULL.
+Le type de la colonne role_name dans la table [dbo].[def_user_role] est actuellement  NCHAR (50) NULL, mais est remplacé par  VARCHAR (100) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (100) NULL.
+Si ce déploiement est exécuté, les modifications de [dbo].[app_user] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_demande_formation_get_all].
+Si ce déploiement est exécuté, les modifications de [dbo].[app_user] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_demande_formation_get_all_user].
+Si ce déploiement est exécuté, les modifications de [dbo].[app_user] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_demande_formation_get_one_by_id].
+Si ce déploiement est exécuté, les modifications de [dbo].[app_user] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_demandeRecrutement_get_all].
+Si ce déploiement est exécuté, les modifications de [dbo].[app_user] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_demandeRecrutement_get_all_statut_demande].
+Si ce déploiement est exécuté, les modifications de [dbo].[app_user] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_demandeRecrutement_get_all_user].
+Si ce déploiement est exécuté, les modifications de [dbo].[app_user] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_demandeRecrutement_get_one_by_id].
+Si ce déploiement est exécuté, les modifications de [dbo].[def_user_role] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_user_role_get_one_by_id].
+

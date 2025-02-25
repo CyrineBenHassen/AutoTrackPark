@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer.DB\\PFE.HOTIX.DataLayer.DB.csproj": {}
+  },
+  "projects": {
+    "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer.DB\\PFE.HOTIX.DataLayer.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer.DB\\PFE.HOTIX.DataLayer.DB.csproj",
+        "projectName": "PFE.HOTIX.DataLayer.DB",
+        "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer.DB\\PFE.HOTIX.DataLayer.DB.csproj",
+        "packagesPath": "C:\\Users\\syrin\\.nuget\\packages\\",
+        "outputPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer\\PFE.HOTIX.DataLayer.csproj": {
+                "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer\\PFE.HOTIX.DataLayer.csproj"
+              },
+              "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj": {
+                "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj"
+              },
+              "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Utils\\PFE.HOTIX.Utils.csproj": {
+                "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Utils\\PFE.HOTIX.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer\\PFE.HOTIX.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer\\PFE.HOTIX.DataLayer.csproj",
+        "projectName": "PFE.HOTIX.DataLayer",
+        "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer\\PFE.HOTIX.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\syrin\\.nuget\\packages\\",
+        "outputPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj": {
+                "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj",
+        "projectName": "PFE.HOTIX.Entities",
+        "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj",
+        "packagesPath": "C:\\Users\\syrin\\.nuget\\packages\\",
+        "outputPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Utils\\PFE.HOTIX.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Utils\\PFE.HOTIX.Utils.csproj",
+        "projectName": "PFE.HOTIX.Utils",
+        "projectPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Utils\\PFE.HOTIX.Utils.csproj",
+        "packagesPath": "C:\\Users\\syrin\\.nuget\\packages\\",
+        "outputPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\syrin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[1.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿@model PFE.HOTIX.WEB.Models.TypeMaintenanceModel
+@{
+    ViewData["Title"] = "Ajouter type maintenance";
+    Layout = "_Layout";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body"
+                <div class="card card-teal card-outline">
+                    <div class="card-header">
+                        <h2 class="card-title">Ajouter un type maintenance </h2>
+                    </div>
+
+
+   <form class="mt-4" asp-controller="Typemaintenance" asp-action="Ajouter">
+
+                 
+
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Nom type maintenance:</label>
+                        <input asp-for="name_type" class="form-control" id="exampleInputPassword1" placeholder=" Entrer nom type ">
+                        <span asp-validation-for="name_type" class="text-danger"></span>
+                    </div>
+
+
+                    <button value="Ajouter" type="submit" class="btn btn-success float-right"> <i class="fa fa-check"></i> Ajouter</button>
+                     <button asp-action="Index" class="btn btn-danger "><i class="fas fa-arrow-left"></i> Annuler </button>
+                </form>
+
+            </div>
+        </div>
+        </div>
+    </div>
+
+
+
+
+

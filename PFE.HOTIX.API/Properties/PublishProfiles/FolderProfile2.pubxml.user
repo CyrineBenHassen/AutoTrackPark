@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\syrin\Desktop\APIWEB</_PublishTargetUrl>
+    <History>True|2023-05-16T13:15:01.5947952Z;True|2023-05-16T12:42:00.4105978+01:00;True|2023-05-16T10:02:47.3009311+01:00;True|2023-05-16T09:57:00.0303620+01:00;True|2023-05-16T09:55:57.7525810+01:00;True|2023-05-10T10:07:14.1688867+01:00;True|2023-05-10T10:05:16.5107649+01:00;True|2023-05-10T10:02:46.7642900+01:00;True|2023-05-10T10:00:05.8048172+01:00;True|2023-05-10T09:58:37.3744654+01:00;True|2023-05-10T09:58:21.5236886+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

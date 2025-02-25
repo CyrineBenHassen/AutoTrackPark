@@ -1,0 +1,181 @@
+﻿@model PFE.HOTIX.WEB.Models.ReservationViewModel
+
+@{
+    ViewData["Title"] = "Consulter demande de reservation";
+}
+
+
+<section class="content-header">
+    <br />
+    <br />
+    <div class="container-fluid">
+
+
+      
+
+        <div class="card card-teal card-outline">
+            <div class="card-body box-profile">
+                <br />
+                <h2 class="card-title">Détails d'une demande de réservation</h2>
+                <br />
+            </div>
+          
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="far fa-id-badge"></i>
+                            <strong>
+                               Nom employé:
+                            </strong> <p class="text-muted"> @Html.DisplayFor(model => model.Reservation.User.FullName )</p>
+
+
+
+
+                        </div>
+
+                    </div>
+                    
+                    <div class="col-md-6">
+                        <div class="form-group">
+
+                            <i class="far fa-calendar-alt"></i>
+                            <strong> Date début d'une réservation:</strong>
+                            <p class="text-muted">@Html.DisplayFor(model => model.datedebutreservation)</p>
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <hr>
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="far fa-calendar-alt"></i>
+                            <strong>
+                                Date fin d'une réservation:
+                            </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.datefinresrvation)
+                            </p>
+                        </div>
+
+                    </div>
+
+
+                  
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong><i class="far fa-file-alt"></i> Déscription d'une demande de réservation:</strong>
+                            <p class="text-muted"> @Html.DisplayFor(model => model.description_reservation)</p>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+
+
+              <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong>   <i class="fas fa-parking"></i> Parc:</strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Reservation.Parc.nom_parc)
+                            </p>
+                        </div>
+
+                    </div>
+                    
+
+                @if ((Model.Reservation.Etat_demande.id_etat_demande == (int)PFE.HOTIX.Entities.Enumeration.EtatDemande.CONFIRMER) || (Model.Reservation.Etat_demande.id_etat_demande == (int)PFE.HOTIX.Entities.Enumeration.EtatDemande.ARCHIVER))
+                    {
+                        <br />
+
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <i class="fa fa-car"></i>
+                                <strong>
+                                    Matricule voiture
+                                </strong>
+                                <p class="text-muted"> @Html.DisplayFor(model => model.Reservation.Voiture.matricule_voiture)</p>
+
+                            </div>
+
+                        </div>
+
+                 }
+
+                      
+
+                      
+                    </div>
+                <hr />
+
+                @if ((Model.Reservation.Etat_demande.id_etat_demande == (int)PFE.HOTIX.Entities.Enumeration.EtatDemande.CONFIRMER) || (Model.Reservation.Etat_demande.id_etat_demande == (int)PFE.HOTIX.Entities.Enumeration.EtatDemande.ARCHIVER))
+                {
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <i class="fas fa-car-side"></i>
+
+                                <strong>
+
+                                    Modéle voiture 
+                                </strong>
+                                <p class="text-muted">
+                                    @Html.DisplayFor(model => model.Reservation.Voiture.Model.name_model)
+                                </p>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <strong> <i class="fas fa-car-side"></i> Marque voiture:</strong>
+                                <p class="text-muted"> @Html.DisplayFor(model => model.Reservation.Voiture.Marque.marque_name)</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <hr />
+                    <br />
+
+                }
+
+
+                  @if (Model.Reservation.Etat_demande.id_etat_demande == (int)PFE.HOTIX.Entities.Enumeration.EtatDemande.ENATTENTE)
+                {
+                    <div class="col-12">
+                        <a class="btn btn-default bg-teal  float-right" href='@Url.Action("Affecter", "DemandeReservation", new { id_réservation = @Model.id_reservation})'>
+                            <i class="fa fa-plus-circle"></i>
+                            Affecter
+                        </a>
+                    </div>
+                }
+
+
+                <div class="col-12">
+                    <a class="btn btn-danger   float-left" href='@Url.Action("Index", "DemandeReservation")'>
+                        <i class="fas fa-arrow-left"></i>
+                       Annuler
+                    </a>
+
+
+                </div>
+           
+           
+        </div>
+
+
+
+    </div>
+
+
+
+    </div>
+
+
+</section>
+

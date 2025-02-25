@@ -1,0 +1,25 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Modifier
+       [dbo].[reservation] (Table)
+       [dbo].[sp_reservation_get_all] (Procédure)
+       [dbo].[sp_reservation_insert] (Procédure)
+       [dbo].[sp_reservation_update] (Procédure)
+
+** Actions de support
+     Actualiser
+       [dbo].[sp_reservation_delete] (Procédure)
+
+La colonne datedebutreservation de la table [dbo].[reservation] doit être modifiée de NULL à NOT NULL. Si la table contient des données, le script ALTER peut ne pas fonctionner. Pour éviter ce problème, vous devez ajouter des valeurs à cette colonne pour toutes les lignes, marquer la colonne comme autorisant les valeurs NULL ou activer la génération de smart-defaults en tant qu'option de déploiement.
+La colonne datefinresevation de la table [dbo].[reservation] doit être modifiée de NULL à NOT NULL. Si la table contient des données, le script ALTER peut ne pas fonctionner. Pour éviter ce problème, vous devez ajouter des valeurs à cette colonne pour toutes les lignes, marquer la colonne comme autorisant les valeurs NULL ou activer la génération de smart-defaults en tant qu'option de déploiement.
+Si ce déploiement est exécuté, les modifications de [dbo].[reservation] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_reservation_get_all_by_id].
+

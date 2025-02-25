@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmem0wokxJk=",
+  "success": true,
+  "projectFilePath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Entities\\PFE.HOTIX.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syrin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\syrin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\syrin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

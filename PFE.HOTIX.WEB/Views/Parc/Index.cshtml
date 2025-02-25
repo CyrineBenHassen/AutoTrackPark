@@ -1,0 +1,297 @@
+﻿@model PFE.HOTIX.WEB.Models.ParcViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+
+            <div class="col-sm-12">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-controller="Parc" asp-action="Ajouter" class="btn btn-default bg-info  mb-3" style="width:auto">Ajouter un parc</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="content">
+
+    <div class="card card-teal">
+        <div class="card-header">
+            <h3 class="card-title">Liste des parcs</h3>
+            <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                    <i class="fas fa-minus"></i>
+                </button>
+
+            </div>
+
+        </div>
+        <br />
+
+
+
+
+
+        <div class="card-body p-0">
+
+            <table id="example1" class="table table-striped projects">
+
+
+                <thead>
+                    <tr>
+                        <th style="width: 10%">
+                            Responsable
+                        </th>
+
+                        <th style="width: 10%">
+                            Nom
+                        </th>
+
+                        <th style="width:10%">
+                            Téléphone
+                        </th>
+
+                        <th style="width: 10%">
+                            Adresse
+                        </th>
+
+                        <th style="width: 10%">
+                            Email
+                        </th>
+                        <th>
+
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Parcs)
+                    {
+                        <tr>
+                            <td>@item.User.FullName</td>
+                            <td>@item.nom_parc</td>
+                            <td>@item.tel_parc</td>
+                            <td>@item.adresse_parc</td>
+                            <td>@item.email_parc</td>
+
+
+                            <td class="project-actions text-right">
+                                <a class="btn btn-primary btn-sm" href='@Url.Action("Consulter", "Parc", new { id_parc = @item.id_parc })'>
+                                    <i class="fas fa-eye">
+                                    </i>
+                                    Consulter
+                                </a>
+
+                                <a class="btn btn-info btn-sm" href='@Url.Action("Modifier", "Parc", new { id_parc = @item.id_parc })'>
+                                    <i class="fas fa-pencil-alt">
+                                    </i>
+                                    Modifier
+                                </a>
+
+                                <a onclick="deleteConfirm('@item.id_parc')" class="btn btn-danger btn-sm">
+                                    <i class="fas fa-trash"></i> Supprimer
+                                </a>
+
+                        </tr>
+
+
+
+
+
+                    }
+                </tbody>
+            </table>
+
+
+
+
+
+
+
+        </div>
+
+
+        <div class="modal fade" id="delete-conformation" tabindex="-1" role="dialog" aria-labelledby="deleteconformation">
+            <div class="modal-dialog" style="width:501px !important;margin:0 auto;">
+                <div class="modal-content">
+                    <div class="modal-header" style="background:#d9534f;color:white;">
+                        <h4 class="modal-title" id="delete-conformation">
+                            Confirmation de suppression
+                        </h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="form-group">
+                                <div class="col-sm-12">
+                                    <span>
+                                        "Voulez-vous vriament supprimer ce parc ?"
+                                    </span>
+                                    <input type="hidden" id="deletedValueName" name="deletedValueName" value="" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
+                            <input type="submit" class="btn btn-danger" value="oui" onclick="deleteData()" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@section Scripts{
+    <script type="text/javascript">
+        //this is only display bootstrap modal pop up dialog
+        var deleteConfirm = function (val) {
+            $('#deletedValueName').val(val);
+            $('#delete-conformation').modal('show');
+        }
+        //call this function after click on confirm delete button
+        var deleteData = function () {
+            $('#divLoading').show();
+            var id_parc = $('#deletedValueName').val();
+
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Supprimer","Parc")',
+                data: { id_parc: id_parc },
+                success: function (result) {
+                    $("#delete-conformation").modal('hide');
+                    var baseUrl = "/Parc";
+                    window.location.href = baseUrl;
+                },
+                error: function () {
+                    $("#delete-conformation").modal('hide');
+                }
+            });
+        }
+    </script>
+
+
+    <script>
+        $(function () {
+            var frenchLanguage = {
+                "decimal": "",
+                "emptyTable": "Aucune donnée disponible dans le tableau",
+                "info": "<div style='text-align: center; margin-right: 450px'>Affichage de _START_ à _END_ sur _TOTAL_ éléments</div>",
+                "infoEmpty": "Affichage de 0 à 0 sur 0 éléments",
+                "infoFiltered": "(filtrés à partir de _MAX_ éléments au total)",
+                "infoPostFix": "",
+                "thousands": ",",
+                "lengthMenu": "Afficher _MENU_ éléments",
+                "loadingRecords": "Chargement...",
+                "processing": "Traitement...",
+                "search": "Rechercher :",
+                "zeroRecords": "Aucun élément correspondant trouvé",
+                "paginate": {
+                    "first": "Premier",
+                    "last": "Dernier",
+                    "next": "Suivant",
+                    "previous": "Précédent"
+                },
+                "aria": {
+                    "sortAscending": ": activer pour trier la colonne par ordre croissant",
+                    "sortDescending": ": activer pour trier la colonne par ordre décroissant"
+                },
+                "buttons": {
+
+                    "csv": "CSV",
+                    "excel": "Excel",
+                    "pdf": "PDF",
+                    "print": "Imprimer",
+
+                },
+                "show": "Afficher"
+            };
+
+            $.extend(true, $.fn.dataTable.defaults, {
+                language: frenchLanguage
+
+            });
+
+            // Initialisez DataTables avec vos options
+            $("#example1").DataTable({
+                "responsive": true,
+                "lengthChange": true,
+                "autoWidth": true,
+                "buttons": ["csv", "excel", "pdf", {
+                    extend: 'print',
+                    text: 'Imprimer',
+                    exportOptions: {
+                        columns: ':visible'
+                    }
+                }],
+
+                "drawCallback": function () {
+                    // Centrer la barre de recherche
+                    var searchContainer = $(this).closest('.dataTables_wrapper').find('.dataTables_filter');
+                    var centerOffset = 50; // Spécifiez le nombre de pixels pour le centrage
+                    var lengthContainer = $("#example1_length"); // Sélectionnez l'élément contenant le composant lengthChange
+                    lengthContainer.css("text-align", "center"); // Appliquez la propriété CSS "text-align: center" pour centrer l'élément
+                    var buttonsContainer = $(this).closest('.dataTables_wrapper').find('.dt-buttons');
+
+
+                    // Calculez la marge gauche et droite pour le centrage
+                    var marginValue = "0 " + centerOffset + "px";
+
+                    lengthContainer.css({
+                        "text-align": "left",
+                        "margin": 10,
+
+                        /* Autres propriétés de style */
+                    });
+
+                    // Appliquer les marges gauche et droite avec la valeur "auto"
+                    searchContainer.css({
+                        'margin-left': 'auto',
+                        'margin-right': 'auto',
+                        'width': 'calc(100% - ' + (centerOffset * 2) + 'px)'
+
+
+
+                    });
+
+                }
+
+            }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+
+
+
+
+        });
+
+
+
+
+
+
+    </script>
+
+
+
+
+        }
+

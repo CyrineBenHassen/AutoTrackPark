@@ -1,0 +1,286 @@
+﻿@model PFE.HOTIX.WEB.Models.DashboardViewModel
+@{
+    ViewData["Title"] = "Dashbord";
+}
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <!-- Small boxes (Stat box) -->
+        <div class="row">
+            <div class="col-lg-3 col-6">
+                <!-- small box -->
+                <div href="#" class="small-box bg-teal">
+                    <div class="inner">
+                        <h3>@Model.users_count</h3>
+
+                        <p>Utilisateurs </p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-users"></i>
+
+                    </div>
+                    <a href="/User/index" class="small-box-footer">Plus d'informations <i class="fas fa-arrow-circle-right"></i></a>
+                </div>
+
+            </div>
+            <!-- ./col -->
+
+
+            <div class="col-lg-3 col-6">
+                <!-- small box -->
+                <div class="small-box bg-danger">
+
+                    <div class="inner">
+                        <h3> @Model.voitures_count </h3>
+
+                        <p>
+                            Voitures
+                        </p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa fa-car"></i>
+
+                    </div>
+                    <a href="/Voiture/index" class="small-box-footer">Plus d'informations <i class="fas fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+
+            <div class="col-lg-3 col-6">
+                <!-- small box -->
+                <div class="small-box bg-warning block-5 mb-3 mx-">
+                    <div class="inner">
+
+                        <h3>@Model.parcs_count</h3>
+
+                        <p>Parcs</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-parking"></i>
+                    </div>
+                    <a href="/Parc/index" class="small-box-footer">Plus d'informations <i class="fas fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+            <div class="col-lg-3 col-6">
+                <!-- small box -->
+                <div class="small-box bg-info ">
+                    <div class="inner">
+                        <h3>@Model.maintenances_count</h3>
+
+                        <p>Maintenances</p>
+                    </div>
+                    <div class="icon">
+                        <i class="fas fa-tools"></i>
+                    </div>
+                    <a href="/Maintenance/index" class="small-box-footer">Plus d'informations <i class="fas fa-arrow-circle-right"></i></a>
+                </div>
+            </div>
+            <!-- ./col -->
+        </div>
+        <!-- /.row -->
+        </br>
+        </br>
+
+    </div><!-- /.container-fluid -->
+    <!-- Main content -->
+
+
+
+
+
+
+    <div class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="card">
+                        <!-- Contenu de la première carte -->
+                        
+                            <div class="card">
+                                <div class="card-header border-0">
+                                    <div class="d-flex justify-content-between">
+                                        <h3 class="card-title">Sales</h3>
+                                        <a href="javascript:void(0);">View Report</a>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <div class="d-flex">
+                                        <p class="d-flex flex-column">
+                                            <span class="text-bold text-lg">$18,230.00</span>
+                                            <span>Sales Over Time</span>
+                                        </p>
+                                        <p class="ml-auto d-flex flex-column text-right">
+                                            <span class="text-success">
+                                                <i class="fas fa-arrow-up"></i> 33.1%
+                                            </span>
+                                            <span class="text-muted">Since last month</span>
+                                        </p>
+                                    </div>
+                                    <!-- /.d-flex -->
+
+                                    <div class="position-relative mb-4">
+                                        <canvas id="sales-chart" height="200"></canvas>
+                                    </div>
+
+                                    <div class="d-flex flex-row justify-content-end">
+                                        <span class="mr-2">
+                                            <i class="fas fa-square text-primary"></i> This year
+                                        </span>
+
+                                        <span>
+                                            <i class="fas fa-square text-gray"></i> Last year
+                                        </span>
+                                    </div>
+                                </div>
+                            
+                        <!-- Contenu de la deuxième carte -->
+
+                        <div class="card">
+                            <div class="card-header border-0">
+                                <h3 class="card-title">État des réservations</h3>
+                                <div class="card-tools">
+                                </div>
+                                </br>
+                                </br>
+
+
+                            </div>
+                            <div class="card-body">
+                                <div class="d-flex justify-content-between align-items-center border-bottom mb-3">
+                                    <p class="text-danger text-xl">
+                                        <i class="fas fa-circle-notch fa-spin"></i>
+
+
+                                    </p>
+                                    <p class="d-flex flex-column text-right">
+                                        <span class="font-weight-bold">
+                                            <i class="ion ion-android-arrow-up text-success"></i>
+                                        </span>
+                                        <span class="text-muted"> RÉSERVATIONS EN COURS</span> @Model.Taux_Encours
+                                    </p>
+                                </div>
+                                </br>
+                                <!-- /.d-flex -->
+                                <div class="d-flex justify-content-between align-items-center border-bottom mb-3">
+                                    <p class="text-success text-xl">
+                                        <i class="fas fa-check"></i>
+                                    </p>
+                                    <p class="d-flex flex-column text-right">
+                                        <span class="font-weight-bold">
+                                            <i class="ion ion-android-arrow-up text-warning"></i>
+                                        </span>
+                                        <span class="text-muted">RÉSERVATIONS CONFIRMÉE</span> @Model.Taux_Confirmed
+                                    </p>
+                                </div>
+                                <!-- /.d-flex -->
+                                <div class="d-flex justify-content-between align-items-center mb-0">
+                                    <p class="text-warning text-xl">
+                                        <i class="fas fa-archive"></i>
+                                    </p>
+                                    <p class="d-flex flex-column text-right">
+                                        <span class="font-weight-bold">
+                                            <i class="ion ion-android-arrow-down text-danger"></i>
+                                        </span>
+                                        <span class="text-muted"> RÉSERVATIONS ARCHIVÉE</span> @Model.Taux_Refuser
+                                    </p>
+                                </div>
+                                <!-- /.d-flex -->
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+
+
+
+</section>
+<!-- /.content -->
+<!-- Page specific script -->
+@section Scripts {
+    <script>
+        $(function () {
+            'use strict'
+
+            var ticksStyle = {
+                fontColor: '#495057',
+                fontStyle: 'bold'
+            }
+
+            var mode = 'index'
+            var intersect = true
+
+            var $salesChart = $('#sales-chart')
+            // eslint-disable-next-line no-unused-vars
+            var salesChart = new Chart($salesChart, {
+                type: 'bar',
+                data: {
+                    labels: ['JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'],
+                    datasets: [
+                        {
+                            backgroundColor: '#007bff',
+                            borderColor: '#007bff',
+                            data: [1000, 2000, 3000, 2500, 2700, 2500, 3000]
+                        },
+                        {
+                            backgroundColor: '#ced4da',
+                            borderColor: '#ced4da',
+                            data: [700, 1700, 2700, 2000, 1800, 1500, 2000]
+                        }
+                    ]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    tooltips: {
+                        mode: mode,
+                        intersect: intersect
+                    },
+                    hover: {
+                        mode: mode,
+                        intersect: intersect
+                    },
+                    legend: {
+                        display: false
+                    },
+                    scales: {
+                        yAxes: [{
+                            // display: false,
+                            gridLines: {
+                                display: true,
+                                lineWidth: '4px',
+                                color: 'rgba(0, 0, 0, .2)',
+                                zeroLineColor: 'transparent'
+                            },
+                            ticks: $.extend({
+                                beginAtZero: true,
+
+                                // Include a dollar sign in the ticks
+                                callback: function (value) {
+                                    if (value >= 1000) {
+                                        value /= 1000
+                                        value += 'k'
+                                    }
+
+                                    return '$' + value
+                                }
+                            }, ticksStyle)
+                        }],
+                        xAxes: [{
+                            display: true,
+                            gridLines: {
+                                display: false
+                            },
+                            ticks: ticksStyle
+                        }]
+                    }
+                }
+            })
+
+    </script>
+}

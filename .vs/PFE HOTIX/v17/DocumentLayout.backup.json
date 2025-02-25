@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\voiture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\voiture\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\voiture\\consulter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\voiture\\consulter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\reservation\\modifier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\reservation\\modifier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\parc\\modifier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\parc\\modifier.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6106C6C-AC87-49AC-BBA6-BEB209614D0A}|PFE.HOTIX.Repository\\PFE.HOTIX.Repository.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.repository\\pfe.hotix.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6106C6C-AC87-49AC-BBA6-BEB209614D0A}|PFE.HOTIX.Repository\\PFE.HOTIX.Repository.csproj|solutionrelative:pfe.hotix.repository\\pfe.hotix.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\parc\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\parc\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\maintenance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\maintenance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\parc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\parc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\marque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\marque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\parc\\consulter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\parc\\consulter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\marque\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\marque\\ajouter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|d:\\pfe hotix save le 08-05-2023\\pfe hotix 1\\pfe.hotix.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8F143-CDA0-4D8E-8993-BD5D9DD283E4}|PFE.HOTIX.WEB\\PFE.HOTIX.WEB.csproj|solutionrelative:pfe.hotix.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:03:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:03:05.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Voiture\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Voiture\\Index.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Voiture\\Index.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Voiture\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAKsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\User\\Details.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGcAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Modifier.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Reservation\\Modifier.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Reservation\\Modifier.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Reservation\\Modifier.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Reservation\\Modifier.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Modifier.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Modifier.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Parc\\Modifier.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Modifier.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Parc\\Modifier.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PFE.HOTIX.Repository.csproj",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Repository\\PFE.HOTIX.Repository.csproj",
+              "RelativeDocumentMoniker": "PFE.HOTIX.Repository\\PFE.HOTIX.Repository.csproj",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.Repository\\PFE.HOTIX.Repository.csproj",
+              "RelativeToolTip": "PFE.HOTIX.Repository\\PFE.HOTIX.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T21:02:28.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\appsettings.json",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\appsettings.json",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T21:02:28.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAM0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consulter.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Voiture\\Consulter.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Voiture\\Consulter.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Voiture\\Consulter.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Voiture\\Consulter.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAYwKsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Maintenance\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Maintenance\\Index.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Maintenance\\Index.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Maintenance\\Index.cshtml",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAAOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Parc\\Index.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Index.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Parc\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ajouter.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Ajouter.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Parc\\Ajouter.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Ajouter.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Parc\\Ajouter.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Consulter.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Consulter.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Parc\\Consulter.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Parc\\Consulter.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Parc\\Consulter.cshtml",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAYwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ajouter.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Marque\\Ajouter.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Marque\\Ajouter.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Marque\\Ajouter.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Marque\\Ajouter.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Marque\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Marque\\Index.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Marque\\Index.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Marque\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T21:02:28.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PFE.HOTIX.WEB\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\PFE HOTIX save le 08-05-2023\\PFE HOTIX 1\\PFE.HOTIX.WEB\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PFE.HOTIX.WEB\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:02:28.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       La colonne [dbo].[app_user].[id_reservation] de la table [dbo].[app_user] doit être ajoutée mais la colonne ne comporte
+         pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne
+         fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme
+         autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+       La colonne [dbo].[def_etat].[matricule_voiture] est en cours de suppression, des données risquent d'être perdues.
+       La colonne [dbo].[def_etat_demande].[id_reservation] est en cours de suppression, des données risquent d'être perdues.
+       La colonne [dbo].[def_marque].[matricule_voiture] est en cours de suppression, des données risquent d'être perdues.
+       La colonne [dbo].[def_model].[matricule_voiture] est en cours de suppression, des données risquent d'être perdues.
+       La colonne [dbo].[def_parc].[matricule_voiture] de la table [dbo].[def_parc] doit être ajoutée mais la colonne ne
+         comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER
+         ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme
+         autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+       La colonne [dbo].[def_parc].[user_id] de la table [dbo].[def_parc] doit être ajoutée mais la colonne ne comporte pas de
+         valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera
+         pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les
+         valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+
+** Actions de l'utilisateur
+     Renommer
+       [dbo].[def_localisation].[Date_Localisation] (Colonne)
+       [dbo].[def_etat_demande].[Id_etat_demande] (Colonne)
+     Supprimer
+       [dbo].[FK_def_etat_To_def_voiture] (Clé étrangère)
+       [dbo].[FK_def_etat_To_def_reservation] (Clé étrangère)
+       [dbo].[FK_def_marque_To_def_voiture] (Clé étrangère)
+       [dbo].[FK_def_voiture_To_def_model] (Clé étrangère)
+     Modifier
+       [dbo].[app_user] (Table)
+       [dbo].[def_etat] (Table)
+       [dbo].[def_etat_demande] (Table)
+       [dbo].[def_marque] (Table)
+       [dbo].[def_model] (Table)
+       [dbo].[def_parc] (Table)
+       [dbo].[sp_user_get_all] (Procédure)
+       [dbo].[sp_user_get_one_by_id] (Procédure)
+       [dbo].[sp_user_get_one_by_login] (Procédure)
+       [dbo].[sp_user_insert] (Procédure)
+       [dbo].[sp_user_update] (Procédure)
+       [dbo].[sp_etatvoiture_get_all] (Procédure)
+       [dbo].[sp_marque_get_all] (Procédure)
+       [dbo].[sp_model_get_all] (Procédure)
+       [dbo].[sp_parc_get_all] (Procédure)
+       [dbo].[sp_parc_get_all_by_id] (Procédure)
+       [dbo].[sp_parc_insert] (Procédure)
+       [dbo].[sp_parc_update] (Procédure)
+       [dbo].[sp_reservation_delete] (Procédure)
+       [dbo].[sp_reservation_get_all] (Procédure)
+       [dbo].[sp_reservation_get_all_by_id] (Procédure)
+       [dbo].[sp_reservation_insert] (Procédure)
+       [dbo].[sp_reservation_update] (Procédure)
+       [dbo].[sp_voiture_delete] (Procédure)
+       [dbo].[sp_voiture_get_all] (Procédure)
+       [dbo].[sp_voiture_get_one_by_matricule] (Procédure)
+       [dbo].[sp_voiture_insert] (Procédure)
+       [dbo].[sp_voiture_update] (Procédure)
+     Créer
+       [dbo].[localisation] (Table)
+       [dbo].[maintenance] (Table)
+       [dbo].[reservation] (Table)
+       [dbo].[voiture] (Table)
+       [dbo].[FK_localisation_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_voiture] (Clé étrangère)
+       [dbo].[FK_reservation_To_def_etat_demande] (Clé étrangère)
+       [dbo].[FK_voiture_To_defmarquee] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_model] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_etat] (Clé étrangère)
+       [dbo].[FK_voiture_To_reservation] (Clé étrangère)
+       [dbo].[FK_user_To_reservation] (Clé étrangère)
+       [dbo].[FK_parc_To_user_] (Clé étrangère)
+       [dbo].[FK_parc_To_voiture_] (Clé étrangère)
+       [dbo].[sp_etatvoiture_delete] (Procédure)
+       [dbo].[sp_etatvoiture_insert] (Procédure)
+       [dbo].[sp_etatvoiture_update] (Procédure)
+       [dbo].[sp_marque_delete] (Procédure)
+       [dbo].[sp_marque_insert] (Procédure)
+       [dbo].[sp_marque_update] (Procédure)
+       [dbo].[sp_model_delete] (Procédure)
+       [dbo].[sp_model_insert] (Procédure)
+       [dbo].[sp_model_update] (Procédure)
+
+** Actions de support
+     Actualiser
+       [dbo].[sp_user_delete] (Procédure)
+       [dbo].[sp_parc_delete] (Procédure)
+
+La colonne [dbo].[app_user].[id_reservation] de la table [dbo].[app_user] doit être ajoutée mais la colonne ne comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+La colonne [dbo].[def_etat].[matricule_voiture] est en cours de suppression, des données risquent d'être perdues.
+La colonne [dbo].[def_etat_demande].[id_reservation] est en cours de suppression, des données risquent d'être perdues.
+La colonne [dbo].[def_marque].[matricule_voiture] est en cours de suppression, des données risquent d'être perdues.
+La colonne [dbo].[def_model].[matricule_voiture] est en cours de suppression, des données risquent d'être perdues.
+La colonne [dbo].[def_parc].[matricule_voiture] de la table [dbo].[def_parc] doit être ajoutée mais la colonne ne comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+La colonne [dbo].[def_parc].[user_id] de la table [dbo].[def_parc] doit être ajoutée mais la colonne ne comporte pas de valeur par défaut et n'autorise pas les valeurs NULL. Si la table contient des données, le script ALTER ne fonctionnera pas. Pour éviter ce problème, vous devez ajouter une valeur par défaut à la colonne, la marquer comme autorisant les valeurs Null ou activer la génération de smart-defaults en tant qu'option de déploiement.
+Les bases de données du projet et cible ont des paramètres de classement différents. Des erreurs de déploiement peuvent se produire.
+

@@ -1,0 +1,168 @@
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\bin\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+E:\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.deps.json
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.dll
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\refint\PFE.HOTIX.Utils.dll
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\PFE.HOTIX.Utils.pdb
+D:\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Debug\net5.0\ref\PFE.HOTIX.Utils.dll

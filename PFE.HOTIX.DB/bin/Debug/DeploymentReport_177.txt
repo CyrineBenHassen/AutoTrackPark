@@ -1,0 +1,27 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       La colonne [dbo].[voiture].[id_reservation] est en cours de suppression, des données risquent d'être perdues.
+
+** Actions de l'utilisateur
+     Supprimer
+       [dbo].[FK_voiture_To_reservation] (Clé étrangère)
+     Modifier
+       [dbo].[voiture] (Table)
+
+** Actions de support
+     Actualiser
+       [dbo].[sp_localisation_get_all] (Procédure)
+
+La colonne [dbo].[voiture].[id_reservation] est en cours de suppression, des données risquent d'être perdues.
+Si ce déploiement est exécuté, les modifications de [dbo].[voiture] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_voiture_delete].
+Si ce déploiement est exécuté, les modifications de [dbo].[voiture] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_voiture_get_all].
+Si ce déploiement est exécuté, les modifications de [dbo].[voiture] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_voiture_get_one_by_matricule].
+Si ce déploiement est exécuté, les modifications de [dbo].[voiture] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_voiture_insert].
+Si ce déploiement est exécuté, les modifications de [dbo].[voiture] risquent d'introduire des erreurs d'exécution dans [dbo].[sp_voiture_update].
+

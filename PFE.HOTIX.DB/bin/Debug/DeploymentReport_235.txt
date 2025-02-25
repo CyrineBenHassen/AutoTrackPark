@@ -1,0 +1,175 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       [dbo].[voiture]
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Le type de la colonne user_email dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est remplacé
+         par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne user_first_name dans la table [dbo].[app_user] est actuellement  NCHAR (100) NOT NULL, mais est
+         remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la
+         colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+       Le type de la colonne user_last_name dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne user_login dans la table [dbo].[app_user] est actuellement  NCHAR (100) NOT NULL, mais est
+         remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la
+         colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+       Le type de la colonne etat_code dans la table [dbo].[def_etat] est actuellement  NCHAR (100) NULL, mais est remplacé par
+          VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des
+         données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne etat_name dans la table [dbo].[def_etat] est actuellement  NCHAR (100) NULL, mais est remplacé par
+          VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des
+         données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne etat_code dans la table [dbo].[def_etat_demande] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne etat_name dans la table [dbo].[def_etat_demande] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne marque_name dans la table [dbo].[def_marque] est actuellement  NCHAR (100) NULL, mais est remplacé
+         par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne name_model dans la table [dbo].[def_model] est actuellement  NCHAR (100) NULL, mais est remplacé
+         par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne adresse_parc dans la table [dbo].[def_parc] est actuellement  NCHAR (100) NULL, mais est remplacé
+         par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne email_parc dans la table [dbo].[def_parc] est actuellement  NCHAR (100) NULL, mais est remplacé
+         par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient
+         des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne nom_parc dans la table [dbo].[def_parc] est actuellement  NCHAR (100) NULL, mais est remplacé par 
+         VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des
+         données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne matricule_voiture dans la table [dbo].[localisation] est actuellement  NCHAR (100) NOT NULL, mais
+         est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la
+         colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+       Le type de la colonne Temps_Localisation dans la table [dbo].[localisation] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne Description_Maintenance dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NULL, mais
+         est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la
+         colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne Lieu_Maintenance dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne matricule_voiture dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NOT NULL, mais
+         est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la
+         colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+       Le type de la colonne Type_Maintenance dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne matricule_voiture dans la table [dbo].[reservation] est actuellement  NCHAR (100) NOT NULL, mais
+         est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la
+         colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+       Le type de la colonne couleur_voiture dans la table [dbo].[voiture] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne Kilommetrage_Voiture dans la table [dbo].[voiture] est actuellement  NCHAR (100) NULL, mais est
+         remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne
+         contient des données incompatibles avec le type  VARCHAR (1) NULL.
+       Le type de la colonne matricule_voiture dans la table [dbo].[voiture] est actuellement  NCHAR (100) NOT NULL, mais est
+         remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la
+         colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+
+** Actions de l'utilisateur
+     Modifier
+       [dbo].[app_user] (Table)
+       [dbo].[def_etat] (Table)
+       [dbo].[def_etat_demande] (Table)
+       [dbo].[def_marque] (Table)
+       [dbo].[def_model] (Table)
+       [dbo].[def_parc] (Table)
+       [dbo].[localisation] (Table)
+       [dbo].[maintenance] (Table)
+       [dbo].[reservation] (Table)
+       [dbo].[sp_user_get_one_by_login] (Procédure)
+       [dbo].[sp_user_insert] (Procédure)
+       [dbo].[sp_user_update] (Procédure)
+       [dbo].[sp_etatvoiture_insert] (Procédure)
+       [dbo].[sp_etatvoiture_update] (Procédure)
+       [dbo].[sp_voiture_get_one_by_matricule] (Procédure)
+       [dbo].[sp_etat_demande_get_all] (Procédure)
+       [dbo].[sp_etat_demande_insert] (Procédure)
+       [dbo].[sp_etat_demande_update] (Procédure)
+       [dbo].[sp_marque_insert] (Procédure)
+       [dbo].[sp_marque_update] (Procédure)
+       [dbo].[sp_model_insert] (Procédure)
+       [dbo].[sp_model_update] (Procédure)
+       [dbo].[sp_parc_insert] (Procédure)
+       [dbo].[sp_parc_update] (Procédure)
+       [dbo].[sp_voiture_delete] (Procédure)
+       [dbo].[sp_voiture_insert] (Procédure)
+       [dbo].[sp_voiture_update] (Procédure)
+     Recréer la table
+       [dbo].[voiture] (Table)
+
+** Actions de support
+     Supprimer
+       [dbo].[FK_localisation_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_voiture] (Clé étrangère)
+       [dbo].[FK_reservation_to_voiture] (Clé étrangère)
+       [dbo].[FK_voiture_To_defmarquee] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_model] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_etat] (Clé étrangère)
+       [dbo].[FK_voiture_To_parc] (Clé étrangère)
+     Créer
+       [dbo].[FK_localisation_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_voiture] (Clé étrangère)
+       [dbo].[FK_reservation_to_voiture] (Clé étrangère)
+       [dbo].[FK_voiture_To_defmarquee] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_model] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_etat] (Clé étrangère)
+       [dbo].[FK_voiture_To_parc] (Clé étrangère)
+     Actualiser
+       [dbo].[sp_parc_get_all] (Procédure)
+       [dbo].[sp_user_delete] (Procédure)
+       [dbo].[sp_user_get_all] (Procédure)
+       [dbo].[sp_user_get_one_by_id] (Procédure)
+       [dbo].[sp_etatvoiture_delete] (Procédure)
+       [dbo].[sp_etatvoiture_get_all] (Procédure)
+       [dbo].[sp_voiture_get_all] (Procédure)
+       [dbo].[sp_etat_demande_delete] (Procédure)
+       [dbo].[sp_marque_delete] (Procédure)
+       [dbo].[sp_marque_get_all] (Procédure)
+       [dbo].[sp_model_delete] (Procédure)
+       [dbo].[sp_model_get_all] (Procédure)
+       [dbo].[sp_parc_delete] (Procédure)
+       [dbo].[sp_localisation_delete] (Procédure)
+       [dbo].[sp_localisation_get_all] (Procédure)
+       [dbo].[sp_localisation_insert] (Procédure)
+       [dbo].[sp_localisation_update] (Procédure)
+       [dbo].[sp_reservation_delete] (Procédure)
+       [dbo].[sp_reservation_get_all] (Procédure)
+       [dbo].[sp_reservation_get_all_by_id] (Procédure)
+       [dbo].[sp_reservation_insert] (Procédure)
+       [dbo].[sp_reservation_update] (Procédure)
+
+Le type de la colonne user_email dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne user_first_name dans la table [dbo].[app_user] est actuellement  NCHAR (100) NOT NULL, mais est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+Le type de la colonne user_last_name dans la table [dbo].[app_user] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne user_login dans la table [dbo].[app_user] est actuellement  NCHAR (100) NOT NULL, mais est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+Le type de la colonne etat_code dans la table [dbo].[def_etat] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne etat_name dans la table [dbo].[def_etat] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne etat_code dans la table [dbo].[def_etat_demande] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne etat_name dans la table [dbo].[def_etat_demande] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne marque_name dans la table [dbo].[def_marque] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne name_model dans la table [dbo].[def_model] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne adresse_parc dans la table [dbo].[def_parc] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne email_parc dans la table [dbo].[def_parc] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne nom_parc dans la table [dbo].[def_parc] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne matricule_voiture dans la table [dbo].[localisation] est actuellement  NCHAR (100) NOT NULL, mais est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+Le type de la colonne Temps_Localisation dans la table [dbo].[localisation] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne Description_Maintenance dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne Lieu_Maintenance dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne matricule_voiture dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NOT NULL, mais est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+Le type de la colonne Type_Maintenance dans la table [dbo].[maintenance] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne matricule_voiture dans la table [dbo].[reservation] est actuellement  NCHAR (100) NOT NULL, mais est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+Le type de la colonne couleur_voiture dans la table [dbo].[voiture] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne Kilommetrage_Voiture dans la table [dbo].[voiture] est actuellement  NCHAR (100) NULL, mais est remplacé par  VARCHAR (1) NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NULL.
+Le type de la colonne matricule_voiture dans la table [dbo].[voiture] est actuellement  NCHAR (100) NOT NULL, mais est remplacé par  VARCHAR (1) NOT NULL. Une perte de données peut se produire et le déploiement risque d'échouer si la colonne contient des données incompatibles avec le type  VARCHAR (1) NOT NULL.
+

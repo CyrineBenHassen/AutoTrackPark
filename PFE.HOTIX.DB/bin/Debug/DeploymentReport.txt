@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[def_user_role] (Table)
+       [dbo].[user] (Table)
+       [dbo].[FK_User_To_DefUserRole] (Foreign Key)
+       [dbo].[sp_user_delete] (Procedure)
+       [dbo].[sp_user_get_all] (Procedure)
+       [dbo].[sp_user_get_one_by_id] (Procedure)
+       [dbo].[sp_user_get_one_by_login] (Procedure)
+       [dbo].[sp_user_insert] (Procedure)
+       [dbo].[sp_user_role_get_all] (Procedure)
+       [dbo].[sp_user_update] (Procedure)
+
+** Supporting actions

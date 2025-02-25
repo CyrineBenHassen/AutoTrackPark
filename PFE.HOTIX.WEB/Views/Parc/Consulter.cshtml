@@ -1,0 +1,127 @@
+﻿@model PFE.HOTIX.WEB.Models.ParcViewModel
+
+@{
+    ViewData["Title"] = "Consulter";
+}
+
+
+<section class="content-header">
+    <br />
+    <br />
+    <div class="container-fluid">
+
+
+
+        <div class="card card-teal card-outline">
+            <div class="card-body box-profile">
+
+                <h2 class="card-title">Détails de Parc</h2>
+            </div>
+           
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6" style="display: none;">
+
+                        <div class="form-group" >
+
+                            <strong>
+                                Id  parc :
+                            </strong>  @Html.DisplayFor(model => model.id_parc)
+                        </div>
+                    </div>
+                   
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong>
+                                <i class="fas fa-parking"></i>
+
+                                Nom de parc :
+                            </strong>  <p class="text-muted">@Html.DisplayFor(model => model.nom_parc)</p>
+
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong><i class="fa fa-user"></i> Responsable de parc: </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Parc.User.FullName)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <hr>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong>  <i class="fas fa-phone-alt mr-1"></i>Téléphone de parc:</strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.tel_parc)
+                            </p>
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong><i class="fas fa-envelope mr-1"></i>Email de Parc: </strong>
+                            <p class="text-muted"> @Html.DisplayFor(model => model.email_parc)</p>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong><i class="fas fa-map-marker-alt"></i>  Adresse de parc: </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.adresse_parc)
+                            </p>
+                        </div>
+                    </div>
+
+
+
+                 
+                </div>
+                <hr>
+
+                <div class="row">
+                    <div class="col-12">
+                    </div>
+                    <div class="col-12">
+                      
+                         <a class="btn btn-default bg-teal  float-right" href='@Url.Action("Modifier", "Parc", new { id_parc = @Model.id_parc })'>
+                            <i class="fas fa-user-edit"></i>
+                            Modifier
+                        </a>
+
+                        <a class="btn btn-danger   float-left" href='@Url.Action("Index", "parc")'>
+                            <i class="fas fa-arrow-left"></i>
+                            Retour
+                        </a>
+
+
+                    </div>
+                </div>
+             
+            </div>
+
+
+
+        </div>
+
+
+
+    </div>
+
+
+</section>
+
+

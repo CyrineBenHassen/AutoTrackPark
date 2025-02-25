@@ -1,0 +1,229 @@
+﻿@model PFE.HOTIX.WEB.Models.MarqueViewModel
+@{
+    ViewData["Title"] = "Marque Page";
+}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+
+            <div class="col-sm-12">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a asp-controller="Marque" asp-action="Ajouter" class="btn btn-default bg-info  mb-3" style="width:auto">Ajouter une  marque</a></li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="card-header">
+    <section class="content">
+    
+        <div class="card card-teal">
+            <div class="card-header">
+                <h3 class="card-title">Liste des marques</h3>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                
+                </div>
+            </div>
+
+            <div class="card-body p-0">
+                <table class="table table-striped projects">
+                    <thead>
+                        <tr>
+                            <th style="width: 25%">
+                                Nom marque
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Marques)
+                        {
+                            <tr>
+
+                                <td>@item.marque_name</td>
+
+
+                                <td class="project-actions text-right">
+
+
+                                    <a class="btn btn-info btn-sm" href='@Url.Action("Modifier", "Marque", new { id_marque = @item.Id_marque })'>
+                                        <i class="fas fa-pencil-alt">
+                                        </i>
+                                        Modifier
+                                    </a>
+                                    <a onclick="deleteConfirm('@item.Id_marque')" class="btn btn-danger btn-sm">
+                                        <i class="fas fa-trash"></i> Supprimer
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="modal fade" id="delete-conformation" tabindex="-1" role="dialog" aria-labelledby="deleteconformation">
+                <div class="modal-dialog" style="width:501px !important;margin:0 auto;">
+                    <div class="modal-content">
+                        <div class="modal-header" style="background:#d9534f;color:white;">
+                            <h4 class="modal-title" id="delete-conformation">
+                                Confirmation de suppression
+                            </h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="row">
+                                <div class="form-group">
+                                    <div class="col-sm-12">
+                                        <span>
+                                            "Voulez-vous vriament supprimer cette marque ?"
+                                        </span>
+                                        <input type="hidden" id="deletedValueName" name="deletedValueName" value="" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
+                                <input type="submit" class="btn btn-danger" value="oui" onclick="deleteData()" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+</div>
+
+
+
+@section Scripts{
+    <script type="text/javascript">
+       
+        var deleteConfirm = function (val) {
+            $('#deletedValueName').val(val);
+            $('#delete-conformation').modal('show');
+        }
+      
+        var deleteData = function () {
+            $('#divLoading').show();
+            var id_marque = $('#deletedValueName').val();
+
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Supprimer","Marque")',
+                data: { id_marque: id_marque },
+                success: function (result) {
+                    $("#delete-conformation").modal('hide');
+                    var baseUrl = "/Marque";
+                    window.location.href = baseUrl;
+                },
+                error: function () {
+                    $("#delete-conformation").modal('hide');
+                }
+            });
+        }
+    </script>
+
+
+    <script>
+        $(function () {
+            var frenchLanguage = {
+                "decimal": "",
+                "emptyTable": "Aucune donnée disponible dans le tableau",
+                "info": "<div style='text-align: center; margin-right: 450px'>Affichage de _START_ à _END_ sur _TOTAL_ éléments</div>",
+                "infoEmpty": "Affichage de 0 à 0 sur 0 éléments",
+                "infoFiltered": "(filtrés à partir de _MAX_ éléments au total)",
+                "infoPostFix": "",
+                "thousands": ",",
+                "lengthMenu": "Afficher _MENU_ éléments",
+                "loadingRecords": "Chargement...",
+                "processing": "Traitement...",
+                "search": "Rechercher :",
+                "zeroRecords": "Aucun élément correspondant trouvé",
+                "paginate": {
+                    "first": "Premier",
+                    "last": "Dernier",
+                    "next": "Suivant",
+                    "previous": "Précédent"
+                },
+                "aria": {
+                    "sortAscending": ": activer pour trier la colonne par ordre croissant",
+                    "sortDescending": ": activer pour trier la colonne par ordre décroissant"
+                },
+                "buttons": {
+
+                    "csv": "CSV",
+                    "excel": "Excel",
+                    "pdf": "PDF",
+                    "print": "Imprimer",
+
+                },
+                "show": "Afficher"
+            };
+
+            $.extend(true, $.fn.dataTable.defaults, {
+                language: frenchLanguage
+
+            });
+
+            $("#example1").DataTable({
+                "responsive": true,
+                "lengthChange": true,
+                "autoWidth": true,
+                "buttons": ["csv", "excel", "pdf", {
+                    extend: 'print',
+                    text: 'Imprimer',
+                    exportOptions: {
+                        columns: ':visible'
+                    }
+                }],
+
+                "drawCallback": function () {
+                   
+                    var searchContainer = $(this).closest('.dataTables_wrapper').find('.dataTables_filter');
+                    var centerOffset = 50; 
+                    var lengthContainer = $("#example1_length"); 
+                    lengthContainer.css("text-align", "center"); 
+                    var buttonsContainer = $(this).closest('.dataTables_wrapper').find('.dt-buttons');
+
+
+                    
+                    var marginValue = "0 " + centerOffset + "px";
+
+                    lengthContainer.css({
+                        "text-align": "left",
+                        "margin": 10,
+
+                        
+                    });
+
+                   
+                    searchContainer.css({
+                        'margin-left': 'auto',
+                        'margin-right': 'auto',
+                        'width': 'calc(100% - ' + (centerOffset * 2) + 'px)'
+
+
+
+                    });
+
+                }
+
+            }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+
+
+
+
+        });
+
+
+
+
+
+
+    </script>
+
+
+
+        }
+

@@ -1,0 +1,36 @@
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\ref\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\bin\Release\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\refint\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.Utils\obj\Release\net5.0\ref\PFE.HOTIX.Utils.dll

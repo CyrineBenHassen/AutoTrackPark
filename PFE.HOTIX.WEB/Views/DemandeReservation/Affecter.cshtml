@@ -1,0 +1,218 @@
+﻿@model PFE.HOTIX.WEB.Models.ReservationViewModel
+@{
+    ViewData["Title"] = "liste des voiture pour valider";
+} 
+
+<div class="card-header">
+    <section class="content">
+        <div class="card card-teal">
+            <div class="card-header">
+                <h3 class="card-title">Liste des voitures</h3>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                   
+                </div>
+            </div>
+
+            <div class="card-body p-0">
+                <table id="example1" class="table  table-striped projects">
+                    <thead>
+                        <br/>
+                        <tr>
+
+                            <th style="width: 12%">
+                                Matricule 
+
+                            </th>
+                            <th style="width: 9%">
+                                Couleur 
+
+                            </th>
+
+                            <th style="width:12%">
+                                kilométrage
+                            </th>
+
+                            <th style="width: 9%">
+                                Année
+                            </th>
+
+                            <th style="width:12%">
+                                Nombre de place
+                            </th>
+
+                            <th style="width: 7%">
+                                Parc
+                            </th>
+
+                            <th style="width: 7%">
+                                Modèle
+                            </th>
+
+                            <th style="width: 7%">
+                                Marque
+                            </th>
+
+                            <th style="width: 7%">
+                                État
+                            </th>
+                            <th></th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Voitures)
+                        {
+                            <tr>
+                                <td>@item.matricule_voiture</td>
+                                <td>@item.couleur_voiture</td>
+                                <td>@item.Kilommetrage_Voiture</td>
+                                <td>@item.annee_voiture</td>
+                                <td>@item.nbre_place</td>
+                               <td> @item.Parc.nom_parc</td>
+                                <td>@item.Model.name_model</td>
+                                <td>@item.Marque.marque_name</td>
+                                 
+                                <td>
+                                    @{
+                                        switch (@item.Etat.id_etat)
+                                        {
+                                            case 1:
+                                                <span class="badge bg-success">@item.Etat.etat_name</span>
+                                                break;
+                                            case 2:
+                                                <span class="badge bg-primary">@item.Etat.etat_name</span>
+
+                                                break;
+                                            case 3:
+                                                <span class="badge bg-warning">@item.Etat.etat_name</span>
+
+                                                break;
+                                            case 4:
+                                                <span class="badge bg-danger">@item.Etat.etat_name</span>
+
+                                                break;
+                                        }
+                                    }
+                                </td>
+
+
+                                <td class="project-actions text-right">
+                                    <a class="btn btn-success btn-sm" href='@Url.Action("AffecterVoiture", "DemandeReservation", new { id_reservation = @Model.Reservation.id_reservation, matricule_voiture = @item.matricule_voiture})'>
+                                        <i class="fas fa-check"></i> Valider
+                                    </a>
+
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+
+    @section Scripts{
+
+    <script>
+        $(function () {
+            var frenchLanguage = {
+                "decimal": "",
+                "emptyTable": "Aucune donnée disponible dans le tableau",
+                "info": "<div style='text-align: center; margin-right: 450px'>Affichage de _START_ à _END_ sur _TOTAL_ éléments</div>",
+                "infoEmpty": "Affichage de 0 à 0 sur 0 éléments",
+                "infoFiltered": "(filtrés à partir de _MAX_ éléments au total)",
+                "infoPostFix": "",
+                "thousands": ",",
+                "lengthMenu": "Afficher _MENU_ éléments",
+                "loadingRecords": "Chargement...",
+                "processing": "Traitement...",
+                "search": "Rechercher :",
+                "zeroRecords": "Aucun élément correspondant trouvé",
+                "paginate": {
+                    "first": "Premier",
+                    "last": "Dernier",
+                    "next": "Suivant",
+                    "previous": "Précédent"
+                },
+                "aria": {
+                    "sortAscending": ": activer pour trier la colonne par ordre croissant",
+                    "sortDescending": ": activer pour trier la colonne par ordre décroissant"
+                },
+                "buttons": {
+
+                    "csv": "CSV",
+                    "excel": "Excel",
+                    "pdf": "PDF",
+                    "print": "Imprimer",
+
+                },
+                "show": "Afficher"
+            };
+
+            $.extend(true, $.fn.dataTable.defaults, {
+                language: frenchLanguage
+
+            });
+
+            $("#example1").DataTable({
+                "responsive": true,
+                "lengthChange": true,
+                "autoWidth": true,
+                "buttons": ["csv", "excel", "pdf", {
+                    extend: 'print',
+                    text: 'Imprimer',
+                    exportOptions: {
+                        columns: ':visible'
+                    }
+                }],
+
+                "drawCallback": function () {
+                    
+                    var searchContainer = $(this).closest('.dataTables_wrapper').find('.dataTables_filter');
+                    var centerOffset = 50; 
+                    var lengthContainer = $("#example1_length"); 
+                    lengthContainer.css("text-align", "center"); 
+                    var buttonsContainer = $(this).closest('.dataTables_wrapper').find('.dt-buttons');
+
+
+                    var marginValue = "0 " + centerOffset + "px";
+
+                    lengthContainer.css({
+                        "text-align": "left",
+                        "margin": 10,
+
+                       
+                    });
+
+                    searchContainer.css({
+                        'margin-left': 'auto',
+                        'margin-right': 'auto',
+                        'width': 'calc(100% - ' + (centerOffset * 2) + 'px)'
+
+
+
+                    });
+
+                }
+
+            }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+
+
+
+
+        });
+
+
+
+
+
+
+    </script>
+
+
+
+    }

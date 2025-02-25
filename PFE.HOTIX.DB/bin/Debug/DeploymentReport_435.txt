@@ -1,0 +1,21 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Modifier
+       [dbo].[maintenance] (Table)
+
+** Actions de support
+     Actualiser
+       [dbo].[sp_maintenance_delete] (Procédure)
+       [dbo].[sp_maintenance_get_all] (Procédure)
+       [dbo].[sp_maintenance_get_one_by_id] (Procédure)
+       [dbo].[sp_maintenance_insert] (Procédure)
+       [dbo].[sp_maintenance_update] (Procédure)

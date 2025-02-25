@@ -1,0 +1,98 @@
+﻿@model PFE.HOTIX.WEB.Models.ReservationViewModel
+
+@{
+    ViewData["Title"] = "Modifier";
+}
+<section class="content">
+    <div class="row">
+        <div class="col">
+            <div class="card card-teal">
+                <div class="card-header">
+                    <h3 class="card-title">
+                        Modifier une  demande de  réservation
+                    </h3>
+                    <div class="card-tools">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
+                            <i class="fas fa-minus"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <form class="form-horizontal" asp-action="Modifier" asp-controller="Reservation">
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group" style="display: none;">
+                                <label asp-for="id_reservation">Id réservation : </label>
+                                <input asp-for="id_reservation" class="form-control" />
+                                <span asp-validation-for="id_reservation" class="text-danger"></span>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label asp-for="datedebutreservation" class="control-label">Date début :</label>
+                                    <input asp-for="datedebutreservation" class="form-control" />
+                                    <span asp-validation-for="datedebutreservation" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label asp-for="datefinresrvation" class="control-label">Date fin :</label>
+                                    <input asp-for="datefinresrvation" class="form-control"> 
+                                    <span asp-validation-for="datefinresrvation" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="form-group">
+                                    <label asp-for="parc_id" class="control-label">Parc:</label>
+                                    <select asp-for="parc_id" class="form-control" size="1" asp-items="@(new SelectList(Model.Parcs ,"id_parc","nom_parc"))">
+                                        @if ((@Model != null) && (@Model.Reservation != null) && (@Model.Reservation.Parc != null))
+                                        {
+                                            <option id="@Model.Reservation.Parc.id_parc" value="@Model.Reservation.Parc.id_parc">@Model.Reservation.Parc.nom_parc</option>
+                                        }
+                                        else
+                                        {
+                                            <option id="0" value="0">-- select -- </option>
+                                        }
+                                    </select>
+                                    <span asp-validation-for="parc_id" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+
+                        <hr noshade>
+
+                        <div class="form-group">
+                            <label asp-for="description_reservation" class="control-label">Description :</label>
+                            <textarea asp-for="description_reservation" class="form-control" rows="4" placeholder="Enter ..."></textarea>
+                            <span asp-validation-for="description_reservation" class="text-danger"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-12">
+                                <button value="Modifier" type="submit" class="btn btn-success float-right"> <i class="fa fa-check"></i> Modifier </button>
+                                <button asp-action="Index" class="btn btn-danger "><i class="fas fa-arrow-left"></i> Annuler </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    
+    </div>
+   
+
+</section>

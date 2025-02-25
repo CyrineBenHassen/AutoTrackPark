@@ -1,0 +1,5 @@
+SC create PFE.HOTIX.Service displayname= "PFE.HOTIX.Service" binpath= "C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\WorkerService1\bin\Release\net5.0\publish\WorkerService1.exe" start= auto
+
+SC description  PFE.HOTIX.Service " PFE.HOTIX.Service"
+
+SC delete  PFE.HOTIX.Service

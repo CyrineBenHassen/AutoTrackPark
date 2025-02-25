@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PFE.HOTIX.DataLayer.DB\PFE.HOTIX.DataLayer.DB.csproj" />
+    <ProjectReference Include="..\PFE.HOTIX.DataLayer\PFE.HOTIX.DataLayer.csproj" />
+    <ProjectReference Include="..\PFE.HOTIX.Entities\PFE.HOTIX.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

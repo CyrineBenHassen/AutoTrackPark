@@ -1,0 +1,77 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[app_user] (Table)
+       [dbo].[def_etat] (Table)
+       [dbo].[def_etat_demande] (Table)
+       [dbo].[def_marque] (Table)
+       [dbo].[def_model] (Table)
+       [dbo].[def_parc] (Table)
+       [dbo].[def_user_role] (Table)
+       [dbo].[localisation] (Table)
+       [dbo].[maintenance] (Table)
+       [dbo].[reservation] (Table)
+       [dbo].[voiture] (Table)
+       [dbo].[FK_AppUser_To_DefUserRole] (Clé étrangère)
+       [dbo].[FK_parc_To_user_] (Clé étrangère)
+       [dbo].[FK_localisation_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_voiture] (Clé étrangère)
+       [dbo].[FK_reservation_To_def_etat_demande] (Clé étrangère)
+       [dbo].[FK_reservation_to_app_user] (Clé étrangère)
+       [dbo].[FK_voiture_To_defmarquee] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_model] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_etat] (Clé étrangère)
+       [dbo].[FK_voiture_To_reservation] (Clé étrangère)
+       [dbo].[FK_voiture_To_parc] (Clé étrangère)
+       [dbo].[sp_etat_demande_delete] (Procédure)
+       [dbo].[sp_etat_demande_get_all] (Procédure)
+       [dbo].[sp_etat_demande_insert] (Procédure)
+       [dbo].[sp_etat_demande_update] (Procédure)
+       [dbo].[sp_etatvoiture_delete] (Procédure)
+       [dbo].[sp_etatvoiture_get_all] (Procédure)
+       [dbo].[sp_etatvoiture_insert] (Procédure)
+       [dbo].[sp_etatvoiture_update] (Procédure)
+       [dbo].[sp_localisation_delete] (Procédure)
+       [dbo].[sp_localisation_get_all] (Procédure)
+       [dbo].[sp_localisation_insert] (Procédure)
+       [dbo].[sp_localisation_update] (Procédure)
+       [dbo].[sp_marque_delete] (Procédure)
+       [dbo].[sp_marque_get_all] (Procédure)
+       [dbo].[sp_marque_insert] (Procédure)
+       [dbo].[sp_marque_update] (Procédure)
+       [dbo].[sp_model_delete] (Procédure)
+       [dbo].[sp_model_get_all] (Procédure)
+       [dbo].[sp_model_insert] (Procédure)
+       [dbo].[sp_model_update] (Procédure)
+       [dbo].[sp_parc_delete] (Procédure)
+       [dbo].[sp_parc_get_all] (Procédure)
+       [dbo].[sp_parc_insert] (Procédure)
+       [dbo].[sp_parc_update] (Procédure)
+       [dbo].[sp_reservation_delete] (Procédure)
+       [dbo].[sp_reservation_get_all] (Procédure)
+       [dbo].[sp_reservation_get_all_by_id] (Procédure)
+       [dbo].[sp_reservation_insert] (Procédure)
+       [dbo].[sp_reservation_update] (Procédure)
+       [dbo].[sp_user_delete] (Procédure)
+       [dbo].[sp_user_get_all] (Procédure)
+       [dbo].[sp_user_get_one_by_id] (Procédure)
+       [dbo].[sp_user_get_one_by_login] (Procédure)
+       [dbo].[sp_user_insert] (Procédure)
+       [dbo].[sp_user_role_get_all] (Procédure)
+       [dbo].[sp_user_update] (Procédure)
+       [dbo].[sp_voiture_delete] (Procédure)
+       [dbo].[sp_voiture_get_all] (Procédure)
+       [dbo].[sp_voiture_get_one_by_matricule] (Procédure)
+       [dbo].[sp_voiture_insert] (Procédure)
+       [dbo].[sp_voiture_update] (Procédure)
+
+** Actions de support

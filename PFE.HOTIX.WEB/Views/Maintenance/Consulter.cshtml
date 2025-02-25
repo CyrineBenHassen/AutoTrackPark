@@ -1,0 +1,136 @@
+﻿@model PFE.HOTIX.WEB.Models.MaintenanceViewModel
+
+@{
+    ViewData["Title"] = "Consulter";
+}
+
+
+<section class="content-header">
+    <br />
+    <br />
+    <div class="container-fluid">
+
+
+
+        <div class="card card-teal card-outline">
+            <div class="card-body box-profile">
+
+                <h2 class="card-title">Détails d'une maintenance</h2>
+
+
+
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6" style="display: none;">
+                        
+                        <div class="form-group" >
+
+                            <strong>
+                                Id maintenance:
+                            </strong>  @Html.DisplayFor(model => model.id_maintenance)
+
+
+
+
+                        </div>
+
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+
+
+                            <strong>
+                                <i class="fa fa-car"></i>  Matricule voiture:
+
+                            </strong>  <p class="text-muted">@Html.DisplayFor(model => model.Maintenance.Voiture.matricule_voiture)</p>
+
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="fas fa-tools"></i> <strong>Type maintenance :</strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Maintenance.Type_Maintenance.name_type)
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <hr>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+
+                            <strong>
+                                <i class="fa fa-wrench"></i> Description maintenance:
+                            </strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Description_Maintenance)
+                            </p>
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <strong><i class="far fa-calendar-alt"></i> Date maintenance:</strong>
+                            <p class="text-muted"> @Html.DisplayFor(model => model.Date_Maintenance)</p>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <i class="fas fa-map-marker-alt"></i> <strong>Lieu maintenance :</strong>
+                            <p class="text-muted">
+                                @Html.DisplayFor(model => model.Lieu_Maintenance)
+                            </p>
+                        </div>
+                    </div>
+
+                 
+
+
+
+
+
+                </div>
+                <hr>
+
+                <div class="row">
+                    <div class="col-12">
+                    </div>
+                    <div class="col-12">
+                        <a class="btn btn-default bg-teal  float-right" href='@Url.Action("Modifier", "Maintenance", new { id_maintenance = @Model.id_maintenance})'>
+                            <i class="fas fa-user-edit"></i>
+                            Modifier
+                        </a>
+
+                        <a class="btn btn-danger   float-left" href='@Url.Action("Index", "Maintenance")'>
+                            <i class="fas fa-arrow-left"></i>
+                            Retour
+                        </a>
+
+
+                    </div>
+                </div>
+               
+            </div>
+
+
+
+        </div>
+
+
+
+    </div>
+
+
+</section>

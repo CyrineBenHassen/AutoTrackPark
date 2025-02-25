@@ -1,0 +1,40 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[app_user] (Table)
+       [dbo].[def_etat] (Table)
+       [dbo].[def_etat_demande] (Table)
+       [dbo].[def_marque] (Table)
+       [dbo].[def_model] (Table)
+       [dbo].[def_parc] (Table)
+       [dbo].[def_type_maintenance] (Table)
+       [dbo].[def_user_role] (Table)
+       [dbo].[localisation] (Table)
+       [dbo].[maintenance] (Table)
+       [dbo].[reservation] (Table)
+       [dbo].[voiture] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[app_user] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[app_user] (Contrainte par défaut)
+       [dbo].[FK_AppUser_To_DefUserRole] (Clé étrangère)
+       [dbo].[FK_parc_To_user_] (Clé étrangère)
+       [dbo].[FK_localisation_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_voiture] (Clé étrangère)
+       [dbo].[FK_maintenance_To_type_maintenance] (Clé étrangère)
+       [dbo].[FK_reservation_To_def_etat_demande] (Clé étrangère)
+       [dbo].[FK_reservation_to_app_user] (Clé étrangère)
+       [dbo].[FK_reservation_to_voiture] (Clé étrangère)
+       [dbo].[FK_voiture_To_defmarquee] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_model] (Clé étrangère)
+       [dbo].[FK_voiture_To_def_etat] (Clé étrangère)
+       [dbo].[FK_voiture_To_parc] (Clé étrangère)
+
+** Actions de support

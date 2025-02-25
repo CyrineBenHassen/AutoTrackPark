@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PFE.HOTIX.DataLayer.DB\PFE.HOTIX.DataLayer.DB.csproj" />
+    <ProjectReference Include="..\PFE.HOTIX.Entities\PFE.HOTIX.Entities.csproj" />
+    <ProjectReference Include="..\PFE.HOTIX.Repository\PFE.HOTIX.Repository.csproj" />
+    <ProjectReference Include="..\PFE.HOTIX.Utils\PFE.HOTIX.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

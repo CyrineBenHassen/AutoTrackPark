@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0">
+  <Operation Name="Rename Refactor" Key="a5af0e88-7626-4413-b239-7e25821fd5ad" ChangeDateTime="03/09/2023 13:02:27" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_parc].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_parc]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Idparc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="90d4c59c-0356-43a2-9791-59acf9d50e70" ChangeDateTime="03/09/2023 13:02:46" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_parc].[Idparc]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_parc]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_parc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="900e995e-a073-4cec-82c4-4f889b9c75bb" ChangeDateTime="03/09/2023 13:04:35" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_parc].[adersse]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_parc]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="adresse_parc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9541c1ce-0d2e-496f-b36c-5a56e10061fe" ChangeDateTime="03/09/2023 13:08:19" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_voiture].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="matriculr_voiture" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="28107904-f77b-44a6-9fdd-4184267cf55a" ChangeDateTime="03/09/2023 13:10:11" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_voiture].[couleur_viuture]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="couleur_voiture" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="69a624f0-a9de-49d5-94ba-1626cb99f68a" ChangeDateTime="03/09/2023 13:36:54" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[Table].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_marque" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bd55873a-7e26-4a9d-a01e-d0374b0d1a99" ChangeDateTime="03/09/2023 13:39:20" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_marque].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_marque]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_marque" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="fb9bebf1-c7da-4b55-b63f-0413fbbeb2a2" ChangeDateTime="03/09/2023 13:55:27" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_model].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_model]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_model" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="be5d8209-592b-4d0c-bb2e-bd436c36d91a" ChangeDateTime="03/09/2023 14:00:46" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_etat].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_etat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_etat" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0ff54bda-a919-41c7-ad92-2dd7bf89d22d" ChangeDateTime="03/09/2023 14:03:43" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_reservation].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_reservation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="d70e3cb4-a910-4713-9000-4507f60d1b8a" ChangeDateTime="03/09/2023 14:05:53" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_etat_demande].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_etat_demande]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_etat" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="05988346-2d8a-4348-aaac-ee46a313d965" ChangeDateTime="03/09/2023 14:07:06" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_reservation].[Id_reservation]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f2d33a02-765a-4eb7-a113-f14760ecc2da" ChangeDateTime="03/09/2023 14:07:29" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_etat_demande].[matricule_voiture]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_etat_demande]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_reservation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2d0ac155-e7dd-4fa4-b0af-d1adc76d29b4" ChangeDateTime="03/09/2023 14:09:28" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_reservation].[Id_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_reservation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4d12be96-804e-4970-8f02-896e585794c4" ChangeDateTime="03/09/2023 14:10:17" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[mission].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[mission]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_mission" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f207be00-4c5b-48e3-b6fb-4feadc8bb975" ChangeDateTime="03/09/2023 14:10:51" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[mission].[date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[mission]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="datedepartmission" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f9d7d641-f8b6-43d0-9c5c-93042425f37f" ChangeDateTime="03/09/2023 14:13:05" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_localisation].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_localisation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_localisation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7f3e1a00-6b5d-4b63-808c-ad97d5c7f82b" ChangeDateTime="03/09/2023 14:13:51" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_localisation].[latitutude_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_localisation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Laititude_Localisation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c7661475-ad51-4d04-a76e-d3acd8ff9fd3" ChangeDateTime="03/09/2023 14:16:11" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_maintenance].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3a9dcfea-bbc6-4449-8ed7-3292e94857d4" ChangeDateTime="03/09/2023 14:16:26" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_maintenance].[Id_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdMaintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="fa1a4f6d-dd5a-4ace-ba5c-460d11c3e9ce" ChangeDateTime="03/09/2023 14:17:23" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_maintenance].[Description_Maintenance:]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Description_Maintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2f81cc51-e98c-445e-8326-8c44a110d98a" ChangeDateTime="03/11/2023 08:51:49" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_voiture].[tel_voiture]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Kilommetrage_Voiture" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="987ff6a2-8fec-49ff-b518-22f9511d17fc" ChangeDateTime="03/11/2023 10:03:05" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_reservation].[Id_reservation]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Idreservation_" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3a1052a7-9624-4713-bae1-67f3e4616d1e" ChangeDateTime="03/11/2023 10:03:16" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_reservation].[Idreservation_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_reservation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="cf01975c-e956-4490-a867-b328ab3b74a0" ChangeDateTime="03/14/2023 09:21:46" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_model].[name_model]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_model]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="_modelname" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e2aaeca5-2a6c-4f1e-bd12-22dec843290f" ChangeDateTime="03/14/2023 09:21:54" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_model].[_modelname]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_model]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="name_model" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b6af89c2-88ab-4101-917f-b51117e6c5bb" ChangeDateTime="03/14/2023 09:43:57" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_localisation].[Date_Localisation:]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_localisation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Date_Localisation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9a815614-d743-4319-892b-6074683e93dc" ChangeDateTime="03/14/2023 10:42:53" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[reservation].[id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_etat" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bdc47441-930f-4165-8292-d17a8e0b0844" ChangeDateTime="03/14/2023 11:01:42" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[voiture].[id_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_maintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="95076e49-3dd2-42a3-b60c-0e2c87aee75d" ChangeDateTime="03/14/2023 11:05:01" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[maintenance].[IdMaintenance]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Idmaintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="456b91e0-b137-4609-9a43-00ffc8da0798" ChangeDateTime="03/14/2023 11:05:10" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[maintenance].[Idmaintenance]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_maintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="614b911c-0124-470e-b256-35c545ee94e8" ChangeDateTime="03/14/2023 11:07:19" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_parc].[ma]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_parc]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="matricule_voiture" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b5a55810-5386-46f0-ad38-70bea6874186" ChangeDateTime="03/14/2023 14:11:56" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_etat_demande].[Id_etat]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_etat_demande]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_etat_demande" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0d942368-b12e-4729-9f0f-f4fa20601f37" ChangeDateTime="03/14/2023 14:12:10" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[reservation].[id_etat]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_etat_demande" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f6cd1de9-5846-4ff3-9ca3-9a8ec076411e" ChangeDateTime="03/14/2023 14:25:12" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[reservation].[Id_reservation]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[reservation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_reservation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6184ff46-4e43-4194-bcc2-ecbf58ce815d" ChangeDateTime="03/14/2023 14:27:27" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_etat].[Id_etat]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_etat]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_etat" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="61722d8f-3c10-4907-847a-0647b7c7fd31" ChangeDateTime="03/14/2023 14:27:48" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_model].[Id_model]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_model]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_model" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e704dab3-2daf-4fe1-8066-70a6f27959b6" ChangeDateTime="03/14/2023 14:28:08" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_marque].[Id_marque]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_marque]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_marque" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="797aa362-f11e-4ad4-b1a3-a242e9493dbc" ChangeDateTime="03/14/2023 14:42:11" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_parc].[Id_parc]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_parc]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_parc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bc0fa36e-542b-40af-809a-1891d74fe5f9" ChangeDateTime="03/16/2023 15:20:13" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[voiture].[couleur_voiture]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="cvoitureouleur_" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4cf477cc-cbc6-424d-b105-b27f548bae3e" ChangeDateTime="03/16/2023 15:20:31" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[voiture].[cvoitureouleur_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="couleur_voiture" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="459db35c-0b28-4691-8564-826e8df15141" ChangeDateTime="03/16/2023 19:44:21" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[voiture].[id_parc]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="_parcid" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="50454421-e7ae-4518-82d8-73e8c6ea8760" ChangeDateTime="03/16/2023 19:44:31" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[voiture].[_parcid]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_parc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ef314ff8-e76c-4532-a99a-dd7b6e72a7f4" ChangeDateTime="03/19/2023 14:28:34" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_etat_demande].[Id_etat_demande]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_etat_demande]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_etat_demande" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="938c8627-ec01-4781-b60e-50a8cbcadaab" ChangeDateTime="03/19/2023 16:03:02" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[localisation].[Id_localisation]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[localisation]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_localisation" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="5702356e-a936-4db5-ae46-f6ea16f467c7" ChangeDateTime="03/20/2023 19:54:57" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[voiture].[nbre_place]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value=" nbre_place" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6d5fada4-57d1-4438-b394-4b6f9f68be89" ChangeDateTime="03/20/2023 20:44:41" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_parc].[Nom_parc]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_parc]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="nom_parc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="329b0707-e77d-474f-963d-32f8c7a43600" ChangeDateTime="03/21/2023 14:34:58" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[voiture].[ nbre_place]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[voiture]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="nbre_place" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="91667a3d-cba2-47fd-9b04-559237750aca" ChangeDateTime="03/23/2023 12:12:45" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_type_maintenance].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_type_maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Id_type_maintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="90337b80-5bb9-4531-aa63-7ec18feaf421" ChangeDateTime="03/23/2023 12:12:58" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_type_maintenance].[Id_type_maintenance]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_type_maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_type_maintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c868ad96-993b-4d1e-8500-c6c34e6e2cc8" ChangeDateTime="03/23/2023 12:13:23" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[def_type_maintenance].[Name]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[def_type_maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="name_type" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c151db3a-e16e-45b2-bc1d-fd82ce9be3f6" ChangeDateTime="03/23/2023 16:47:02" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[maintenance].[Id_maintenance]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[maintenance]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="id_maintenance" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="659d0f82-e960-44a3-b110-1ffde0b2d1e1" ChangeDateTime="03/28/2023 08:59:12" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[app_user].[user_creation_date]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[app_user]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="user_creatidateon_" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="13a52c7e-d6c8-453f-b385-810d284bc23a" ChangeDateTime="03/28/2023 08:59:26" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+    <Property Name="ElementName" Value="[dbo].[app_user].[user_creatidateon_]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[app_user]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="user_creation_date" />
+  </Operation>
+</Operations>

@@ -1,0 +1,633 @@
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\ref\PFE.HOTIX.API.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+E:\MB-Projects\DotNet\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\MARWA JABRI\Desktop\PFE HOTIX\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Bureau\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Bureau\PFE\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\syrin\Desktop\PFE HOTIX Save  19-03-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Bureau\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\syrin\Desktop\pfe save hotix le 08-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\marwa\Downloads\PFE Save 21-04-023 (1)\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\marwa\OneDrive\Bureau\copie PFE le 08-05-2023\PFE HOTIX save le 27-04-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\refint\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\appsettings.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.exe
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.deps.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Dapper.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MailKit.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\MimeKit.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.DB.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Entities.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Repository.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.Utils.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.DataLayer.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.AssemblyReference.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfoInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.AssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CoreCompileInputs.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\scopedcss\bundle\PFE.HOTIX.API.styles.css
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Manifest.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\PFE.HOTIX.API.StaticWebAssets.Pack.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.PFE.HOTIX.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.build.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.PFE.HOTIX.API.props
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.RazorTargetAssemblyInfo.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.csproj.CopyComplete
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\PFE.HOTIX.API.genruntimeconfig.cache
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.runtimeconfig.dev.json
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.dll
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\bin\Debug\net5.0\PFE.HOTIX.API.pdb
+C:\Users\syrin\Desktop\PFE HOTIX save le 08-05-2023\PFE HOTIX 1\PFE.HOTIX.API\obj\Debug\net5.0\ref\PFE.HOTIX.API.dll

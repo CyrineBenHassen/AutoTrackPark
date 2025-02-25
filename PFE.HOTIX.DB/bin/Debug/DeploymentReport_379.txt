@@ -1,0 +1,19 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[sp_demande_reservation_delete] (Procédure)
+       [dbo].[sp_demande_reservation_get_all] (Procédure)
+       [dbo].[sp_demande_reservation_get_one_by_id] (Procédure)
+       [dbo].[sp_demande_reservation_insert] (Procédure)
+       [dbo].[sp_demande_reservation_update] (Procédure)
+
+** Actions de support

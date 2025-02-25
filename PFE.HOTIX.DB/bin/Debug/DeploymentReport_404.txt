@@ -1,0 +1,19 @@
+﻿** Met en surbrillance
+     Tables qui seront recréées avec les données migrées
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[reservation] (Table)
+       [dbo].[FK_reservation_To_def_etat_demande] (Clé étrangère)
+       [dbo].[FK_reservation_to_app_user] (Clé étrangère)
+       [dbo].[FK_reservation_to_voiture] (Clé étrangère)
+       [dbo].[FK_reservation_to_parc] (Clé étrangère)
+
+** Actions de support
